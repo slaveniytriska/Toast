@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TransData</string>
+    <string name="buttonToast">Посмажити тост</string>
+    <string name="catfood">Час покормити кота!</string>
+</resources>
